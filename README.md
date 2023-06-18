@@ -1,10 +1,10 @@
 # Дипломный проект по професии "Инженер по тестированию"
 
-#### [Ссылка](https://github.com/netology-code/qamid-diplom) на задание
+##### [Ссылка](https://github.com/netology-code/qamid-diplom) на задание
 
-### План тестирования: https://github.com/Kitsune785/QA-Diploma/blob/main/Plan.md 
-### Чек-лист проекта с отметками о пройденых  и непройденых тестах: https://docs.google.com/spreadsheets/d/1C9Hw9XV9K7vRva9GwGNAoen85fFeLZm_VZxGpimer1M/edit?usp=sharing
-### Тест-кейсы: https://docs.google.com/spreadsheets/d/1qiIf5p73QkpAco0pgMdqyuPkTXXCz7NAtwFZBomLRnY/edit?usp=sharing
+#### План тестирования: https://github.com/Kitsune785/QA-Diploma/blob/main/Plan.md 
+#### Чек-лист проекта с отметками о пройденых  и непройденых тестах: https://docs.google.com/spreadsheets/d/1C9Hw9XV9K7vRva9GwGNAoen85fFeLZm_VZxGpimer1M/edit?usp=sharing
+#### Тест-кейсы: https://docs.google.com/spreadsheets/d/1qiIf5p73QkpAco0pgMdqyuPkTXXCz7NAtwFZBomLRnY/edit?usp=sharing
 ---
 
 
